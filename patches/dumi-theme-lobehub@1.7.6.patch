@@ -1,0 +1,13 @@
+diff --git a/dist/slots/Footer/index.js b/dist/slots/Footer/index.js
+index 04b3a00cfbdc35452aa935952794367052418fa8..9a60ce9803e2a34c1142bd785367057c52767e29 100644
+--- a/dist/slots/Footer/index.js
++++ b/dist/slots/Footer/index.js
+@@ -51,7 +51,7 @@ var Footer = /*#__PURE__*/memo(function () {
+         }
+       })]
+     }),
+-    columns: columns,
++    // columns: columns,
+     contentMaxWidth: theme.contentMaxWidth,
+     theme: theme.appearance
+   });
